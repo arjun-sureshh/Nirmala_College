@@ -6,6 +6,8 @@ function getNumber(numbers){
 
 
 
+  
+
 }
 function getResult(){ 
   num= eval(num)
