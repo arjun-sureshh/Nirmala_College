@@ -3,6 +3,9 @@ function getNumber(numbers){
   num = num+numbers
   console.log(num)
   document.getElementById('result').innerHTML = num
+
+
+
 }
 function getResult(){ 
   num= eval(num)
